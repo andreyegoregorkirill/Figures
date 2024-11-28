@@ -1,2 +1,6 @@
-﻿  Figure.cpp
+﻿  Circle.cpp
+  ComplexFigure.cpp
+  FiguresStack.cpp
+  InscRectangle.cpp
+  Создание кода...
   Figures.vcxproj -> D:\Figures\x64\Debug\Figures.exe

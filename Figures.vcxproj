@@ -127,11 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="ComplexFigure.cpp" />
     <ClCompile Include="Figure.cpp" />
     <ClCompile Include="Figures.cpp" />
+    <ClCompile Include="FiguresStack.cpp" />
+    <ClCompile Include="InscRectangle.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Circle.h" />
+    <ClInclude Include="ComplexFigure.h" />
     <ClInclude Include="Figure.h" />
+    <ClInclude Include="FiguresStack.h" />
+    <ClInclude Include="InscRectangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
